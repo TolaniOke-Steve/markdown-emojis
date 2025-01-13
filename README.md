@@ -348,6 +348,6 @@
 |                    :black_circle: `:black_circle:`                    |                :white_circle: `:white_circle:`                |                :red_circle: `:red_circle:`                |
 |               :large_blue_circle: `:large_blue_circle:`               |          :large_blue_diamond: `:large_blue_diamond:`          |      :large_orange_diamond: `:large_orange_diamond:`      |
 |              :small_blue_diamond: `:small_blue_diamond:`              |        :small_orange_diamond: `:small_orange_diamond:`        |        :small_red_triangle: `:small_red_triangle:`        |
-|         :small_red_triangle_down: `:small_red_triangle_down:`         |                                                               |
+|         :small_red_triangle_down: `:small_red_triangle_down:`         |        :tada: `:tada:`                                                          |
 
 <sup>Source: [https://gist.github.com/rxaviers/7360908](https://gist.github.com/rxaviers/7360908) (with additional change)</sup>
